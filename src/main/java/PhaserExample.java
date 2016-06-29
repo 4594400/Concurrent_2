@@ -1,6 +1,3 @@
-package ua.goit.module_3_2;
-
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
