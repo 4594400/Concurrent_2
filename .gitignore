@@ -6,3 +6,6 @@ target/
 *.iws
 build/
 dist/
+lib/
+test.build/
+test-report/
